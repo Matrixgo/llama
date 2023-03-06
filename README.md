@@ -1,3 +1,6 @@
+[News](https://mp.weixin.qq.com/s/L-7ggPv8Kb-PcFlhV78B9Q)
+
+
 # LLaMA 
 
 This repository is intended as a minimal, hackable and readable example to load [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) ([arXiv](https://arxiv.org/abs/2302.13971v1)) models and run inference.
